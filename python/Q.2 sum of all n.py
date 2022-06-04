@@ -1,5 +1,3 @@
-
-
 # Q.2) Write a recursive function that takes a number and returns the sum of all the numbers from zero to that number.
 
 def sum_of_numbers(n):
